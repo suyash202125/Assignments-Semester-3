@@ -9,7 +9,7 @@ using namespace std;
 
 int main(){
     int a[M][N];
-    int i=0, j=0, row, column;
+    int i=0, j=0, row, column;// first commit
     bool flag = 0;
 
     cout<<"Enter the elements of the array:"<<endl;
